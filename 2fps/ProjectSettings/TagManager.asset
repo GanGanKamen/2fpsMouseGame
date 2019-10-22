@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Friend
+  - Scientist
+  - Clothes
+  - CanClamb
+  - Ground
+  - NowFriend
+  - ChaseTarget
+  - Cup
+  - Wall
+  - Trash
+  - Cardboard
+  - SubCamera
+  - ScientistP
+  - Start
+  - Vcamera
+  - Lookat
+  - MainCanvas
+  - Rocket
+  - Body
+  - BigFriends
+  - Goal
+  - Desk
+  - Medicine
+  - LightObj
+  - SwitchBoard
+  - Loading
+  - Robot
+  - Spin
+  - FireEX
+  - Smoke
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ceiling
+  - Wall
+  - Big
+  - Ground
+  - Mark
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
